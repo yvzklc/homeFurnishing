@@ -51,3 +51,13 @@ select {
   background-color: #d9d9d9;
   padding: 5px;
 }
+
+.search-input{
+    height: 40px;
+    width: 300px;
+    background-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+}
