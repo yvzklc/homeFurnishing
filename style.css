@@ -3,10 +3,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Bellota:wght@300;400&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  body {
-    background-color: #efefef;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #efefef;
+}
+
+div.container {
+  width: 80%;
+  background-color: #EEECEC;
+  margin: 42px auto;
+  border-radius: 2rem;
+  box-shadow: 2px 2px 50px black;
+}
