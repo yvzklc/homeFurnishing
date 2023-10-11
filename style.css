@@ -61,3 +61,15 @@ select {
     justify-content: space-between;
     border-radius: 5px;
 }
+
+.search-input input{
+  padding: 10px;
+  border: none;
+  outline: none;
+  background-color: inherit;
+}
+
+.search-input img{
+  width: 30px;
+  height: 30px;
+}
