@@ -199,3 +199,32 @@ margin-left:18px;
   border-radius: 2rem;
   padding: 1rem 0.625rem 1rem 1rem;
 } 
+
+.productSection{
+  background-color: #EEECEC;
+}
+
+.product{
+  width: 20rem;
+  height: 20rem;
+  background-color: #e5e2df;
+  margin: 1rem;
+  border-radius: 10px;
+  box-shadow: 2px 2px 50px black;
+  text-align: center;
+}
+
+.product img{
+  width: 100%;
+  height: 90%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.contact{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #AEA08D;
+}
