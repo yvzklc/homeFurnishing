@@ -152,4 +152,12 @@ margin-left:18px;
 
 .lightning img{
     width: 100%;
+    /* height: 300px; */
+    border-radius: 5px;
+}
+.lightning-text{
+  margin-bottom: -5rem;
+  width: 80%;
+  float: right;
+  padding: 2rem;
 }
