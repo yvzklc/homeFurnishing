@@ -227,4 +227,16 @@ margin-left:18px;
   align-items: center;
   flex-wrap: wrap;
   background-color: #AEA08D;
+  padding: 2rem;
+}
+
+.expert{
+ flex: 1;
+ padding: 2rem;
+ font-family: "Bellota",cursive;
+}
+
+.lookForExpert{
+  font-size: 2rem;
+  line-height: 1.3;
 }
