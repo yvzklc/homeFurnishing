@@ -166,3 +166,20 @@ margin-left:18px;
 .categorySection{
   background-color: #aeaeae;
 }
+
+.category-part,
+.product-part{
+  padding: 2rem;
+}
+
+.browseProduct,.browseCategory{
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+}
+
+.categories,.products{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
